@@ -63,9 +63,9 @@
 ###
 <h3 align="center">
   <p> Profile View's</p>
-<div align="center">
+<!-- <div align="center">
  <img src="https://profile-counter.glitch.me/Pranav-401/count.svg?"  />
-</div>
+</div> -->
 <h3/>
 
 
