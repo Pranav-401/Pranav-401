@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS**
+- 🌱 I’m currently learning **Python, Data Science, ReactJS, Flask, Django**
 
 - 💬 Ask me about **Web Development**
 
