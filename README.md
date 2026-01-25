@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Maurya!+;Passionate+Software+Developer!+;MERN+Stack+Developer!+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Maurya!+;Passionate+Software+Developer!+;MERN+Stack+Developer!+Ruby+Ruby On Rails ;" />
 </h1>
 <h1 align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=49&duration=5&pause=10000&color=CA22F7FF&background=EEF9FF00&random=false&width=650&height=70&lines=A+passionate+developer+from+India"/>
@@ -15,9 +15,9 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **Ruby On Rails**
 
-- 🌱 I’m currently learning **Python, Data Science, ReactJS, Flask, Django**
+- 🌱 I’m currently learning **Python, Data Science, ReactJS, Flask, Django , Ruby , Rails**
 
 - 💬 Ask me about **Web Development**
 
@@ -58,6 +58,10 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
 </div>
 
 ###
